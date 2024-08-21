@@ -1,3 +1,7 @@
+## Electronic supplementary information 
+
+Supporting text (separate file). Figures S1 to S9, Tables S1, legends for Datasets S1 to S5
+
 ## GS GEM (modernized version) and microfluidics model
 
 Dataset S1 (separate file). Modernized GS GEM provided in EXCEL format.  
